@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-list
 
 ## Project setup
