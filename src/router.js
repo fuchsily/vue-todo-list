@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '@/views/HomePage.vue';
 
+// hier gibt man jeweils pfad und ziel an
+
 const routes = [
   {
     path: '/',
